@@ -25,7 +25,7 @@ export default function Navbar() {
             padding: "1rem",
             borderBottom: "1px solid #ccc"
         }}>
-            <h3>Web3 Hangman</h3>
+            <h3>HANGMAN.</h3>
             {!address ? (
                 <ConnectWallet 
                     btnTitle="Sign In"
